@@ -1,0 +1,15 @@
+com\demospring\usersapp\services\RoleService.class
+com\demospring\usersapp\repositories\RoleRepository.class
+com\demospring\usersapp\config\SwaggerConfig.class
+com\demospring\usersapp\entities\Profile.class
+com\demospring\usersapp\services\UserService.class
+com\demospring\usersapp\repositories\UserRepository.class
+com\demospring\usersapp\UsersAppApplication.class
+com\demospring\usersapp\entities\Role.class
+com\demospring\usersapp\repositories\ProfileRepository.class
+com\demospring\usersapp\config\FakerBeanConfig.class
+com\demospring\usersapp\controllers\UserController.class
+com\demospring\usersapp\controllers\RoleController.class
+com\demospring\usersapp\entities\UserInRole.class
+com\demospring\usersapp\config\CacheConfig.class
+com\demospring\usersapp\entities\User.class
